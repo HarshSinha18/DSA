@@ -1,3 +1,5 @@
+// Move all the negative elements to one side of the array.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
