@@ -1,3 +1,5 @@
+// Find the range of the array. Range means the difference between the maximum and minimum element in the array.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
