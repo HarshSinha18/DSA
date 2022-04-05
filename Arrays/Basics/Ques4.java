@@ -1,3 +1,5 @@
+//  Write a program to reverse the array.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
