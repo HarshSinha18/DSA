@@ -1,3 +1,6 @@
+
+//  Ques :1) Create an Array of size 10 of integers. Take input from the user for these 10 elements and print the entire array after that.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
