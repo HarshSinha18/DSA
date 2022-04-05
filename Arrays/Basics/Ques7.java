@@ -1,3 +1,5 @@
+//   Given an number n. Find the number of occurrences of n in the array.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
@@ -20,8 +22,5 @@ public class GFG {
 			}
 		}
 		return count ;
-
-	     	
-	
 	}
 }
