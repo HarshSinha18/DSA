@@ -1,3 +1,5 @@
+//  Check whether n is present in an array of size m or not.
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
