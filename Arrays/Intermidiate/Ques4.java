@@ -1,5 +1,7 @@
+//  Find all pairs on integer array whose sum is equal to given number.
+
 import java.util.*;
-public class GFG {
+public class Ques4 {
 	public static void main(String[] args){
 		 Scanner sc= new Scanner(System.in);
 		int n = sc.nextInt();
