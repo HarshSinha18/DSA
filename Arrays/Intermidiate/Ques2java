@@ -1,5 +1,7 @@
+// Write a program to cyclically rotate an array by one.
+
 import java.util.*;
-public class GFG {
+public class Ques2 {
 	public static void main(String[] args){
 		 Scanner sc= new Scanner(System.in);
 		int n = sc.nextInt();
