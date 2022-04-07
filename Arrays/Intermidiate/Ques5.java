@@ -1,3 +1,8 @@
+// Find duplicates in an array.
+
+
+// briut force ! not in o(n)  :(
+
 import java.util.*;
 public class GFG {
 	public static void main(String[] args){
