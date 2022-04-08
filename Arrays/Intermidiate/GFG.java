@@ -1,3 +1,5 @@
+// Find the first repeating element in an array of integers.
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class GFG{
@@ -8,10 +10,10 @@ public class GFG{
 		for(int i = 0 ; i < n ; i++) {
 			arr[i] = sc.nextInt();
 	    	}
-		int ans = allDuplicate(arr,n);
+		int ans = ques8(arr,n);
 		System.out.println(ans);
 	}
-	public static int allDuplicate(int arr[] , int n) {
+	public static int ques8(int arr[] , int n) {
 		int count=1;
 		for(int i  =0 ; i< n ; i++) {
 			for(int j = i+1 ; j< n ; j++) {
